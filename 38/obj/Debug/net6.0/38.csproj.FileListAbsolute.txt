@@ -1,0 +1,15 @@
+C:\GeekBrains\task34-36-38\38\bin\Debug\net6.0\38.exe
+C:\GeekBrains\task34-36-38\38\bin\Debug\net6.0\38.deps.json
+C:\GeekBrains\task34-36-38\38\bin\Debug\net6.0\38.runtimeconfig.json
+C:\GeekBrains\task34-36-38\38\bin\Debug\net6.0\38.dll
+C:\GeekBrains\task34-36-38\38\bin\Debug\net6.0\38.pdb
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.csproj.AssemblyReference.cache
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.AssemblyInfoInputs.cache
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.AssemblyInfo.cs
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.csproj.CoreCompileInputs.cache
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.dll
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\refint\38.dll
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.pdb
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\38.genruntimeconfig.cache
+C:\GeekBrains\task34-36-38\38\obj\Debug\net6.0\ref\38.dll
